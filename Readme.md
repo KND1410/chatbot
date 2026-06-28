@@ -19,7 +19,7 @@ mini-chatbot/
 ├── .env             ← API key (use .gitignore)
 ├── package.json
 └── backend/
-   └── server.js   ← Sever
+│   └── server.js   ← Sever
 └── frontend/
     └── index.html   ← Chat UI
 ```
