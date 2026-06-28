@@ -18,7 +18,9 @@ mini-chatbot/
 ├── server.js        ← Express backend + LLM call logic
 ├── .env             ← API key (use .gitignore)
 ├── package.json
-└── public/
+└── backend/
+   └── server.js   ← Sever
+└── frontend/
     └── index.html   ← Chat UI
 ```
 
