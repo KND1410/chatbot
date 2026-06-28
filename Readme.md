@@ -15,12 +15,12 @@ A simple chatbot built with Node.js + Express + OpenRouter API, created to learn
 
 ```
 mini-chatbot/
-├── .env             ← API key (use .gitignore)
-├── package.json
-└── backend/
-│   └── server.js   ← Express backend + LLM call logic
-└── frontend
-    └── index.html   ← Chat UI
+├── backend/
+│    └── server.js    ← Express backend + LLM call logic
+├── frontend/
+│    └── index.html   ← Chat UI
+├── .env              ← API key (use .gitignore)
+└── package.json
 ```
 
 ## Setup
