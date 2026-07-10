@@ -1,0 +1,9 @@
+My name is Khoi. I am a Software Engineering student at USTH.
+
+I am taking the following courses: Digital Signal Processing, Operating Systems, Software Testing, Image Processing, Machine Learning, and Algebraic Structures.
+
+I am building a recipe website project using Node.js, Express, and MongoDB. NMH is in charge of the frontend, and I am in charge of the backend.
+
+I am using CachyOS with Hyprland as the Wayland compositor. The default shell is Fish.
+
+I am learning about LLMs and AI Agents, starting from an article on Towards Data Science.
