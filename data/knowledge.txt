@@ -1,4 +1,4 @@
-My name is Khoi. I am a Software Engineering student at USTH.
+My name is Khoi. I am a ICT student at USTH.
 
 I am taking the following courses: Digital Signal Processing, Operating Systems, Software Testing, Image Processing, Machine Learning, and Algebraic Structures.
 
